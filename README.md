@@ -35,7 +35,7 @@ Team research platform for understanding and routing U.S. government documents t
 
 <p align="center">
   <a href="https://github.com/al1az1z1/newstart-ai">
-    <img src="assets/newstart-routing-demo.png" alt="NewStart AI document routing demo" width="820" />
+    <img src="newstart-routing-demo.png" alt="NewStart AI document routing demo" width="820" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Team-built, CPU-friendly computer-vision pipeline using **YOLO11** and a custom 
 assets/yolo11-traffic-demo.gif-->
 <p align="center">
   <a href="https://github.com/GitAIwithMike/vehicle-behavior-analysis-framework">
-    <img src="assets/yolo11-traffic-demo.gif" alt="YOLO11 vehicle detection and tracking demo" width="820" />
+    <img src="yolo11-traffic-demo.gif" alt="YOLO11 vehicle detection and tracking demo" width="820" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ Team-built AWS SageMaker pipeline covering S3/Athena ingestion, feature engineer
 `LLM Agents` · `Prompt Chaining` · `Routing` · `Evaluator–Optimizer` · `Python` · `Gradio`
 
 
-<p align="center"><img src="assets/sagemaker-pipeline.png" alt="AWS SageNaker Pipeline" width="820" /></p>
+<p align="center"><img src="sagemaker-pipeline.png" alt="AWS SageNaker Pipeline" width="820" /></p>
 
 
 ### 🤖 [Agentic Finance](https://github.com/al1az1z1/agentic-finance)
