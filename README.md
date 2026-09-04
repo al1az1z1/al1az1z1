@@ -32,13 +32,13 @@ Team research platform for understanding and routing U.S. government documents t
 - All three methods reached **1.000 accuracy and macro-F1** on the primary complete-unmasked condition
 - Includes a self-contained research MVP, frozen artifacts, safe rerun controls, and **85 automated tests**
 
-<!-- OPTIONAL ANIMATION: Add assets/newstart-routing-demo.gif, then uncomment:
+
 <p align="center">
   <a href="https://github.com/al1az1z1/newstart-ai">
-    <img src="assets/newstart-routing-demo.gif" alt="NewStart AI document routing demo" width="820" />
+    <img src="assets/newstart-routing-demo.png" alt="NewStart AI document routing demo" width="820" />
   </a>
 </p>
--->
+
 
 ### 🚗 [Traffic Vehicle Detection, Tracking & Behavior Analysis](https://github.com/GitAIwithMike/vehicle-behavior-analysis-framework)
 
@@ -46,14 +46,22 @@ Team-built, CPU-friendly computer-vision pipeline using **YOLO11** and a custom 
 
 `YOLO11` · `OpenCV` · `Object Tracking` · `Trajectory Analysis` · `Behavior Detection`
 
-<!-- RECOMMENDED HERO ANIMATION: Export 8–12 seconds of annotated traffic output as
-assets/yolo11-traffic-demo.gif, then uncomment this block:
+<!--  8–12 seconds of annotated traffic output as
+assets/yolo11-traffic-demo.gif-->
 <p align="center">
   <a href="https://github.com/GitAIwithMike/vehicle-behavior-analysis-framework">
     <img src="assets/yolo11-traffic-demo.gif" alt="YOLO11 vehicle detection and tracking demo" width="820" />
   </a>
 </p>
--->
+
+### 🤖 [Diabetes Readmission MLOps](https://github.com/al1az1z1/AAI-540-Diabetes-Readmission-MLOps)
+
+Team-built AWS SageMaker pipeline covering S3/Athena ingestion, feature engineering, XGBoost training, evaluation, an F1 quality gate, model registration, batch inference, and CloudWatch monitoring. I worked as the **MLOps Engineer**.
+`LLM Agents` · `Prompt Chaining` · `Routing` · `Evaluator–Optimizer` · `Python` · `Gradio`
+
+
+<p align="center"><img src="assets/sagemaker-pipeline.png" alt="AWS SageNaker Pipeline" width="820" /></p>
+
 
 ### 🤖 [Agentic Finance](https://github.com/al1az1z1/agentic-finance)
 
@@ -69,7 +77,6 @@ Multi-agent financial-analysis system coordinating news, earnings, market-signal
 
 | Project | What it demonstrates |
 |---|---|
-| ☁️ **[Diabetes Readmission MLOps](https://github.com/al1az1z1/AAI-540-Diabetes-Readmission-MLOps)** | Team-built AWS SageMaker pipeline covering S3/Athena ingestion, feature engineering, XGBoost training, evaluation, an F1 quality gate, model registration, batch inference, and CloudWatch monitoring. |
 | 🎼 **[Composer & Genre Classification](https://github.com/al1az1z1/composer-prediction-project)** | Deep-learning comparison using LSTM note sequences and CNN spectrograms to classify music by composer. |
 | 📈 **[Stock Movement Prediction](https://github.com/al1az1z1/stock-prediction)** | Time-aware feature engineering and logistic-regression experiments for next-day direction prediction across technology stocks. |
 | 💬 **[Sentiment Analysis](https://github.com/MohammadA98/SentimentLabelledSentences)** | Collaborative VADER-versus-logistic-regression study; I contributed data validation, text cleaning, tokenization, preprocessing, and model-evaluation work. |
