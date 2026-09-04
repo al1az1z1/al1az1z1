@@ -109,8 +109,13 @@ assets/sagemaker-pipeline.png, then add an <img> block beneath the table.
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=al1az1z1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ali's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al1az1z1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Ali's most-used public repository languages" />
+  <img height="165"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=al1az1z1&theme=github_dark"
+       alt="Ali's GitHub statistics" />
+
+  <img height="165"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al1az1z1&theme=github_dark"
+       alt="Ali's repositories by language" />
 </div>
 
 > Language statistics describe public repository contents; they are not a measure of proficiency.
