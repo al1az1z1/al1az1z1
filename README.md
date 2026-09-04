@@ -60,7 +60,7 @@ Team-built AWS SageMaker pipeline covering S3/Athena ingestion, feature engineer
 `LLM Agents` · `Prompt Chaining` · `Routing` · `Evaluator–Optimizer` · `Python` · `Gradio`
 
 
-<p align="center"><img src="sagemaker-pipeline.png" alt="AWS SageNaker Pipeline" width="820" /></p>
+<p align="center"><img src="sagemaker-pipeline.png" alt="AWS SageNaker Pipeline" width="360" /></p>
 
 
 ### 🤖 [Agentic Finance](https://github.com/al1az1z1/agentic-finance)
