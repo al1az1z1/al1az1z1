@@ -126,6 +126,6 @@ assets/sagemaker-pipeline.png, then add an <img> block beneath the table.
 
 ### Let's build AI that is useful, testable, and responsible.
 
-[View my repositories](https://github.com/al1az1z1?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/al1az1z1/) · [Email me](mailto:azizi.ali87@gmail.com)
+[View my repositories](https://github.com/al1az1z1?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/al1az1z1/) · [Email me](mailto:aziziali87@gmail.com)
 
 </div>
