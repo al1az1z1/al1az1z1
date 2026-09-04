@@ -70,7 +70,7 @@ Multi-agent financial-analysis system coordinating news, earnings, market-signal
 `LLM Agents` · `Prompt Chaining` · `Routing` · `Evaluator–Optimizer` · `Python` · `Gradio`
 
 
-<p align="center"><img src="agentic-finance-ui.png" alt="Agentic Finance Gradio interface" width="820" /></p>
+<p align="center"><img src="agentic-finance-ui-gradio.png" alt="Agentic Finance Gradio interface" width="820" /></p>
 
 
 ## More machine-learning work
