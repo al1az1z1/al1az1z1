@@ -77,7 +77,7 @@ Multi-agent financial-analysis system coordinating news, earnings, market-signal
 
 | Project | What it demonstrates |
 |---|---|
-| 🧠 Small Language Model Fine-Tuning & Evaluation | Fine-tuned Qwen2.5-0.5B-Instruct using LoRA; benchmarked baseline and fine-tuned models to analyze response quality, efficiency, and domain adaptation. |
+| 🧠 **[Small Language Model Fine-Tuning & Evaluation](https://github.com/al1az1z1/llm-finetuning-evaluation)** | LoRA fine-tuning of Qwen2.5-0.5B-Instruct; benchmarked baseline and fine-tuned models to evaluate response quality, instruction-following, and domain adaptation. |
 | 🎼 **[Composer & Genre Classification](https://github.com/al1az1z1/composer-prediction-project)** | Deep-learning comparison using LSTM note sequences and CNN spectrograms to classify music by composer. |
 | 📈 **[Stock Movement Prediction](https://github.com/al1az1z1/stock-prediction)** | Time-aware feature engineering and logistic-regression experiments for next-day direction prediction across technology stocks. |
 | 💬 **[Sentiment Analysis](https://github.com/MohammadA98/SentimentLabelledSentences)** | Collaborative VADER-versus-logistic-regression study; I contributed data validation, text cleaning, tokenization, preprocessing, and model-evaluation work. |
