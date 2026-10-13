@@ -6,7 +6,7 @@
 
 **M.S. in Applied Artificial Intelligence (4.00 GPA) · Software engineering background**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Azizi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al1az1z1/)
+[![Website](https://img.shields.io/badge/Website-aazizi.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aazizi.dev)
 [![Email](https://img.shields.io/badge/Email-aazizi.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aazizi.dev@gmail.com)
 
 </div>
